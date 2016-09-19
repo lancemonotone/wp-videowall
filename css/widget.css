@@ -1,0 +1,345 @@
+.meerkat-videowall * {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.meerkat-videowall li:before {
+    content: "" !important
+}
+.videowall-logo {
+    background-color: #FFFFFF;
+    width: 100%;
+    text-align: right;
+}
+/** Filters **/
+.videowall-filters * {
+    color: #FFFFFF;
+    display: inline-block;
+    float: left;
+}
+.videowall-filters {
+    background-color: #373737;
+    padding: 6px 0 0;
+	margin-bottom:8px;
+}
+.videowall-filter-heading {
+  margin: 0 !important;
+  padding: 6px 10px 7px;
+  white-space: nowrap;
+}
+.videowall-filters ul {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.videowall-filters li {
+    border: none !important;
+    margin-bottom: 5px;
+}
+.videowall-filters a {
+    font-size: 93%;
+    font-weight: bold;
+    background-color: #6B8E31;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF !important;
+    line-height: 1.5;
+    margin-right: 5px;
+    padding: 5px 10px;
+    text-decoration: none !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.videowall-filters a:hover,
+.videowall-filters a.current {
+    background-color: #90AA64;
+    text-decoration: none !important;
+}
+.videowall-filters a.current {
+    background-color: #fff;
+    color: #373737 !important;
+}
+/** end Filters **/
+.videowall-items {
+    margin: 0 auto !important;
+    padding: 0 !important;
+    width: 100% !important;
+}
+.videowall-item {
+    border: none !important;
+    /*display: inline-block;*/
+    float: left;
+    padding: 2px !important;
+    position: relative;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.video-duration {
+    background-color: #000;
+    background-color: rgba(0,0,0,.8);
+    color: #FFFFFF;
+    font-size: 80%;
+    font-weight: bold;
+    line-height: 1;
+    padding: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-align: right;
+    width: 100%;
+}
+.videowall-content {
+    height: 72%;
+    top: 1%;
+    overflow-y: auto;
+}
+a.videowall-fancybox {
+    display: block;
+    float: left;
+    height: auto;
+    margin: 15px 15px 5px;
+    max-width: 128px;
+    width: 25%;
+}
+a.videowall-fancybox img {
+    width: 100%;
+    height: auto;
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    filter: alpha(opacity=80);
+    opacity: 0.8;
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    -ms-transition: all 0.1s linear;
+    -o-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+a.videowall-fancybox:hover img {
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+.videowall-view {
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.videowall-mask {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+}
+.video-title {
+    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-bottom: 1px solid #909090;
+    color: #FFFFFF;
+    cursor: default;
+    font-size: 13px;
+    line-height: 1.1;
+    margin: 0;
+    height: 28%;
+    overflow: hidden;
+    padding: 5px 10px;
+    position: relative;
+    width: 100%;
+}
+.videowall-description {
+    color: #FFFFFF;
+    max-width: 100%;
+    padding: 10px 15px;
+    background-color: transparent;
+    line-height: 1.1;
+}
+.videowall-view img {
+    display: block;
+    position: relative;
+}
+.videowall-view img {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+/** INTRO BLOCK **/
+.videowall-intro .video-title {
+    background-color: transparent;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+}
+.videowall-intro .videowall-content {
+    left: 0;
+    height: 70%;
+    overflow-y: auto;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+}
+.videowall-intro.no-title .videowall-content {
+    top: 0;
+    height: 100%;
+}
+.videowall-intro .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.videowall-intro .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
+  background: none repeat scroll 0 0 #3B3B3B;
+  filter:"alpha(opacity=100)"; -ms-filter:"alpha(opacity=100)"; /* old ie */
+}
+.videowall-intro .mCSB_scrollTools .mCSB_draggerRail {
+  background: none;
+}
+/** end INTRO BLOCK **/
+.videowall-item .videowall-mask {
+    -webkit-transform: translateY(74%);
+    -moz-transform: translateY(74%);
+    -o-transform: translateY(74%);
+    -ms-transform: translateY(74%);
+    transform: translateY(74%);
+    -webkit-transition: all 0.2s cubic-bezier(1,.04,.33,1.81);
+    -moz-transition: all 0.2s cubic-bezier(1,.04,.33,1.81);
+    -o-transition: all 0.2s cubic-bezier(1,.04,.33,1.81);
+    -ms-transition: all 0.2s cubic-bezier(1,.04,.33,1.81);
+    transition: all 0.2s cubic-bezier(1,.04,.33,1.81);
+}
+.videowall-item:hover .videowall-mask {
+    background-color: #222;
+    background-color: rgba(0, 0, 0, 0.7);
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    -o-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+@media (min-width: 601px) { 
+    .videowall-filters * {
+        font-size: 100%
+    }
+    .videowall-filter-heading {
+        width: 10%
+    }
+    .videowall-filters ul {
+        width: 90%
+    }
+    .videowall-item {
+        width: 32.65%
+    }
+    .videowall-item:nth-child(3n) {
+        margin-right: 0px
+    }
+}
+/*
+@media (max-width: 1000px) { 
+    .videowall-filters * {
+        font-size: 94%
+    }
+    .videowall-filter-heading {
+        width: 12%
+    }
+    .videowall-filters ul {
+        width: 88%
+    }
+    .videowall-item {
+        width: 49.5%
+    }
+    .videowall-item:nth-child(2n) {
+        margin-right: 0px
+    }
+}
+*/
+@media (max-width: 600px) { 
+    .videowall-filter-heading {
+        width: 100%;
+        float: none;
+    }
+    .videowall-filters ul {
+        float: none;
+        padding: 0 10px !important;
+        width: 100%;
+    }
+    .videowall-item {
+        width: 100%;
+        margin-right: 0;
+    }
+}
+/** SIDEBAR WIDGET (should be immune to screen width) **/
+#sidebar .videowall-item {
+    width: 100%;
+    padding: 0 !important;
+    margin-right: 0;
+}
+#sidebar .videowall-filter-heading {
+    width: 100%;
+}
+#sidebar .videowall-filters ul {
+    width: 100%;
+    padding: 7px 5px 0 10px;
+}
+#sidebar .videowall-filters li {
+    font-size: 94%;
+    margin-bottom: 5px;
+    padding: 0;
+}
+/** Isotope Filtering **/
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+/**** Isotope CSS3 transitions ****/
+
+.isotope,
+.isotope .isotope-item {
+  -webkit-transition-duration: 0.3s;
+     -moz-transition-duration: 0.3s;
+      -ms-transition-duration: 0.3s;
+       -o-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+
+/**** disabling Isotope CSS3 transitions ****/
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+      -ms-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+}
