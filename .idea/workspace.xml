@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85fd8a12-318f-496f-8650-0dac808dd663" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/wp-videowall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/admin.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/mCSB_buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/COPYING.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/ajax_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/auto_hide_scrollbar_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/auto_scrolling_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/callbacks_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/complete_examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/ajax_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/jquery.mCustomScrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsImg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsImg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsThumb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsThumb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsThumb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsThumb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsThumb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsThumb6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsThumb7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcsThumb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/demo_files/mcs_demo_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/disable_destroy_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/fluid_scrollbar_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/full_page_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/grid_and_snap_while_scrolling_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/iframe_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/infinite_scroll_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/init_hidden_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/jquery.mCustomScrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/jquery.mCustomScrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/jquery_ui_sortable_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/js/minified/jquery-1.9.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/js/minified/jquery.mCustomScrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/js/minified/jquery.mCustomScrollbar.min.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/js/minified/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/js/uncompressed/jquery-1.9.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/js/uncompressed/jquery.mCustomScrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/js/uncompressed/jquery.mousewheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/keyboard_nav_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/loading_each_script_separately.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/mCSB_buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/max-height_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/max-width_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/multiple_scrollbars_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/nested_scrollbars_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/nested_scrollbars_demo_alt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/nested_scrollbars_demo_alt_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/scroll_buttons_and_snap_scrolling_examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/scrollbar_themes_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/simple_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/simple_example_all_params.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/source_files/mCSB_buttons.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom-scrollbar-plugin/textarea_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/image-widget.deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/image-widget.deprecated.upload-fixer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/image-widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.isotope.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.isotope.perfectmasonry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/widget.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/admin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/modules/_jquery.mCustomScrollbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/modules/_lazy_yt.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/modules/_widget.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/wmv-helpers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/view-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/view-options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/view-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-videowall.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="24TXpT1i5mGMIoVGixwXUMiOvj7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\drm2\Desktop\Github\__repos\wp-videowall" />
+      <recent name="C:\Users\drm2\Desktop\Github\__repos\wp-videowall\wms-meerkat-videowall" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85fd8a12-318f-496f-8650-0dac808dd663" name="Changes" comment="" />
+      <created>1643655732984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643655732984</updated>
+      <workItem from="1643655734800" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
